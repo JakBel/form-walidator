@@ -1,0 +1,19 @@
+{
+  "name": "form-walidator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JakBel/form-walidator.git"
+  },
+  "author": "Jakub Bełtowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JakBel/form-walidator/issues"
+  },
+  "homepage": "https://jakbel.github.io/form-walidator"
+}
